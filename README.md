@@ -1,6 +1,17 @@
 ## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=desaiprasad1989&color=brightgreen&style=flat-square)
+
+Hi! I'm Prasad Desai, a budding Data Scientist passionate about extracting insights from data using Python, machine learning, and storytelling with visualizations. This GitHub portfolio showcases the projects I've worked on as I grow my skills in data science and data analytics.
+
+📈 Learning in Progress
+  Deep Learning (Keras/TensorFlow)
+  Time Series Forecasting
+  NLP (Natural Language Processing)
+  Deployment (Streamlit, Flask)
+
+💡 Want to Collaborate?
+I'm open to collaborating on beginner/intermediate level data science projects! Feel free to fork, star ⭐, or message me.
 <!--
 **desaiprasad1989/desaiprasad1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
