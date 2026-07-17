@@ -9,6 +9,13 @@ Hi! I'm Prasad Desai, a budding Data Scientist passionate about extracting insig
   Time Series Forecasting
   NLP (Natural Language Processing)
   Deployment (Streamlit, Flask)
+  Embeddings
+  Vector Databases
+  Bert
+  Transformers
+  LLM's
+  RAG
+  Gen AI
 
 💡 Want to Collaborate?
 I'm open to collaborating on beginner/intermediate level data science projects! Feel free to fork, star ⭐, or message me.
